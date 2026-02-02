@@ -18,13 +18,15 @@ Google Fonts & Icons – UI enhancement
 Project Structure;
 Authentication & Review System
 
+
 ├── HTML/
 
    ├── Sign-Up.html
    
    ├── Sign-in.html
    
-   │   └── feedback.html
+   └── feedback.html
+   
 
 ├── CSS/
 
@@ -33,6 +35,7 @@ Authentication & Review System
    ├── Sign-in.css
    
    └── feedback.css
+   
 
 ├── JS/
 
@@ -41,8 +44,10 @@ Authentication & Review System
    ├── Sign-in.js
    
    └── feedback.js
+   
 
 └── README.md
+
 
 Features;
 Sign Up Page
