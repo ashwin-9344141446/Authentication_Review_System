@@ -16,6 +16,7 @@ JavaScript – Basic interactivity and form behavior
 Google Fonts & Icons – UI enhancement
 
 Project Structure
+
 Authentication & Review System/
 │
 ├── HTML/
